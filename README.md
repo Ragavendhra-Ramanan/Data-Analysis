@@ -10,5 +10,5 @@ The dataset of used cars consists of about 371528 data points and 20 features. T
 5. **Feature Analysis**
 6. **Rule Based Prediction**
 
-**Dataset Source:** *https://data.world/data-society/used-cars-data*
-**Medium Article:** *https://medium.com/@ramananrohit4/car-leasing-data-analysis-of-used-cars-46136c21e40c*
+* **Dataset Source:** *https://data.world/data-society/used-cars-data*
+* **Medium Article:** *https://medium.com/@ramananrohit4/car-leasing-data-analysis-of-used-cars-46136c21e40c*
